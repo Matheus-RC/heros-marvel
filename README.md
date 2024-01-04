@@ -1,6 +1,6 @@
 # App Heros
 
-DeUma Api que consulta a API da Marvel para listar e agrupar seus Heróis.
+Uma Api que consulta a API da Marvel para listar e agrupar seus Heróis.
 
 ## Requisitos
 
