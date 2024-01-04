@@ -12,7 +12,7 @@ Uma Api que consulta a API da Marvel para listar e agrupar seus Heróis.
 
 1. **Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Matheus-RC/heros-marvel.git)https://github.com/Matheus-RC/heros-marvel.git
+   git clone https://github.com/Matheus-RC/heros-marvel.git)https://github.com/Matheus-RC/heros-marvel.git
    cd herosProject
    pip install django dhangorestframework
    pip install requests
