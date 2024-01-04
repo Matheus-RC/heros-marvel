@@ -23,7 +23,6 @@ from appHeros.api import viewsets
 route = routers.DefaultRouter()
 route.register(r'appHeros/character', viewsets.CharacterViewSet, basename= "Heros")
 route.register(r'appHeros/group', viewsets.GroupViewSet, basename= "group")
-route.register(r'appHeros/img', viewsets.ImageViewSet, basename= "img")
 
 urlpatterns = [
     path('admin/', admin.site.urls),
